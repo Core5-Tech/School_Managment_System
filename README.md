@@ -1,4 +1,4 @@
-# School Management System - نظام إدارة المدرسة
+# School Management System
 
 A comprehensive school management system built with ASP.NET Core Web API (Clean Architecture) and Angular with full Arabic support and RTL layout.
 
@@ -236,5 +236,5 @@ For support and questions, please contact the development team or create an issu
 
 ---
 
-**نظام إدارة المدرسة - School Management System**
+**School Management System**
 Built with ❤️ using ASP.NET Core and Angular
